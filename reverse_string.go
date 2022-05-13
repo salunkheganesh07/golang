@@ -10,4 +10,5 @@ func main() {
 		reverse = append(reverse, r[ii])
 	}
 	fmt.Println(string(reverse))
+	//https://go.dev/play/p/glL70nMTGtl
 }
